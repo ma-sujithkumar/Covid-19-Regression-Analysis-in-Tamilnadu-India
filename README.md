@@ -1,2 +1,2 @@
-# tn-covid19-predictor
+# Covid 19 Regression Analysis in Tamilnadu
 I have used graphlab create module in  Python 2 to create linear regression models that will predict the total no. of cases in the state of Tamilnadu in India using the dataset available in the server of Government of Tamilnadu. In both the models, the features vary and so the accuracy. I have observed that the no.of cases varies directly as the no. of tests taken increases. 
